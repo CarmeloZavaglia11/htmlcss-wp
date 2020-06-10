@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: url("https://gruppocantarini.it/wp-content/uploads/2018/04/de-zotti-rovere-rustico-naturale1.jpg");
+    background-image: url("https://www.uniquewoodfloor.com/media/catalog/product/h/e/herringbone_gs_4.jpg");
     background-size: cover;
 }
 
@@ -59,6 +59,7 @@ header .sfondo{
     height: 100%;
     width: 75%;
     margin: auto;
+    line-height: 36px;
 }
 
 .items-nav a{
@@ -103,9 +104,10 @@ main{
 
 
 .refer-link i{
-    font-size: 30px;
+    font-size: 25px;
     color:white;
     background-color: orange;
+    border-radius: 10px;
 }
 
 
@@ -170,7 +172,7 @@ hr{
 
 .icon{
     height: 88%;
-    width: 33.1%;
+    width: 33%;
     margin:2px 2px;
     float: left;
     border-radius: 10px;
